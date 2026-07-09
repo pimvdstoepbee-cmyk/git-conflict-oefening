@@ -1,1 +1,1 @@
-# Conflict-oefening van Student B
+# Conflict-oefening van Student A
