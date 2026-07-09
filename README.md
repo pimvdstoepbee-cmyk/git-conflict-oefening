@@ -1,1 +1,1 @@
-# git-conflict-oefening
+# Conflict-oefening van Student B
